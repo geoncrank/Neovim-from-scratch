@@ -4,6 +4,7 @@
 
 # Making another test change
 # Yet another test
+# Creating a commit on Github to see how the gitstatus updates in the local branch
 
 Make sure to remove or move your current `nvim` directory
 
