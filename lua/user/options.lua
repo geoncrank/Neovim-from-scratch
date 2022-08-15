@@ -1,3 +1,4 @@
+-- Testing change status view
 local options = {
   backup = false,                          -- creates a backup file
   clipboard = "unnamedplus",               -- allows neovim to access the system clipboard
