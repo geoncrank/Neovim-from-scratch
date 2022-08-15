@@ -2,6 +2,9 @@
 
 ## Try out this config
 
+# Making another test change
+# Yet another test
+
 Make sure to remove or move your current `nvim` directory
 
 ```
